@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="182b7e3a-f1fc-427b-8aac-13d16802faee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HTML_work/HTML_WORK/220627/a.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_work/HTML_WORK/220627/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_work/HTML_WORK/220627/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_work/HTML_WORK/220627/ex01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_work/HTML_WORK/220627/ex02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_work/HTML_WORK/ex03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellj_work/ex0719/ex0719.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellj_work/ex0719/src/ex0719.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellj_work/ex0719_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellj_work/ex0719_1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellj_work/ex0719_1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellj_work/ex0719_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellj_work/ex0719_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellj_work/ex0719_1/src/main/java/org/example/Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/.idea/pycharm_work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap5/.idea/chap5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap7/.idea/chap7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap7/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap7/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap7/ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap7/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap7/ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap7/gabang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap7/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap7/p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap7/sh1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap7/t1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/.idea/chap7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/best_cnn_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/ex07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/ex08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/gabang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv1_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/img/conv2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/sh1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/sh2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap8/t1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_work/mldl/chap9/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/mldl/chap4/.idea/chap4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/mldl/chap4/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/mldl/chap4/fish_data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/mldl/chap5/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/mldl/chap5/wine.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/mldl/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/pagelast/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/pagelast/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220630/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220630/ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220630/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220630/mldl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220630/믄제1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220704/aa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220704/ex.08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220704/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220704/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220704/ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220704/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220704/ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220704/ex07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220704/ex09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220704/fora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_work/python_work/220721/.idea/220721.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_65.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_65.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_65.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_assertj_assertj_core_3_22_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_mockito_mockito_core_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_mybatis_mybatis_3_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jdbc_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_data_spring_data_jdbc_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_data_spring_data_relational_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_experimental_spring_native_0_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_spring_aop_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_spring_beans_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_spring_context_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_spring_core_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_spring_expression_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_spring_test_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_spring_tx_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_spring_web_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/springboot_work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/org/src/main/java/com/dip/org/components/AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/org/src/main/java/com/dip/org/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/org/src/main/java/com/dip/org/controller/MemberRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/org/src/main/java/com/dip/org/dto/MemberDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/org/src/main/resources/mybatis.mapper/memberMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_work/org/src/main/resources/templates/member.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/14/f02cc7ffadf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/19/b026bc62abf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/1c/90bd8dd7acf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/1c/c00874a4abf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/1d/507d71b89ff2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/1d/70d43c89aaf2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/22/f0afcb3893f2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/28/a02129c096f2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/36/60e25f4e8df2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/4a/7031e73795f2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/61/201e78fbadf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/69/b06772b89ff2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/71/a0401365acf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/74/7062d3f0aaf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/7b/c03c88869ff2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/7c/a00baabeaaf2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/7d/90b3605f93f2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/85/20bd36e39ff2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/93/d09d2968abf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/94/c08589e5aaf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/96/00e5a2e6aaf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/99/d037a34f8df2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/9f/303763c89ff2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/a/5061845093f2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/a3/307bd59891f2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/a5/a0a5eab0abf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/a9/c09b7f6aabf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/ad/f0852254aff2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/b0/e0db24c096f2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/b4/9021d4a494f2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/b7/107aaac0abf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/b9/70727f1a9df2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/c3/6095eb99adf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/d/d0e98df595f2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/d6/305d860aabf2001c18928c21eb599f5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/de/20ad8ef595f2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/ec/906132eb91f2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/ee/3005e2a791f2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/fb/70713b859ff2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/fc/b020eb9194f2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.history/ff/10c227c096f2001c172ebcbf9d746035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/ex0623/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/ex0623/.indexes/e4/6/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/ex0623/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/ex0623/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/ex0623/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/ex0623/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/ex0623/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/ex44/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/ex44/.indexes/e4/20/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/ex44/.indexes/e4/73/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/ex44/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/ex44/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/ex44/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/zz/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/zz/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/zz/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.projects/zz/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.jdt.core/1794063806.index" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.jdt.core/1794063806.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.jdt.core/4148554828.index" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.jdt.core/4148554828.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_work/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../java_work/.metadata/version.ini" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D6uN2rhsaIZbIDUogjdOxDNN9C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="182b7e3a-f1fc-427b-8aac-13d16802faee" name="Changes" comment="" />
+      <created>1660031811956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660031811956</updated>
+    </task>
+    <servers />
+  </component>
+</project>
